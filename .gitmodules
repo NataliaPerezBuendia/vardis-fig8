@@ -1,0 +1,3 @@
+[submodule "codigo-original"]
+	path = codigo-original
+	url = https://github.com/awillig/dcp-vardis.git

@@ -1,0 +1,3 @@
+#!/bin/bash
+P=$HOME/dcp-vardis/simulation-code-paper
+exec $P/srp_vardis/src/srp_vardis -n .:$P/srp_vardis/src:$P/SwarmStack/src:$INET_ROOT/src "$@"
